@@ -1,0 +1,5 @@
+# Created at 2026-03-20T11:15:17.557
+Boot Manifest-JAR contains absolute paths in classpath 'E:\CURA-Health\cura-automation-project\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
